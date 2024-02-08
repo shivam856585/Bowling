@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bowling", "Bowling.csproj", "{7A9F638C-37C5-4E1D-9061-4458F6C8557B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Player", "..\Player\Player.csproj", "{0D00FDED-46B5-4888-8A4F-58C224875A13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling.Test", "..\Bowling.Test\Bowling.Test.csproj", "{8CA56716-52EF-498B-B382-4C501B5B760A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A9F638C-37C5-4E1D-9061-4458F6C8557B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9F638C-37C5-4E1D-9061-4458F6C8557B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9F638C-37C5-4E1D-9061-4458F6C8557B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9F638C-37C5-4E1D-9061-4458F6C8557B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D00FDED-46B5-4888-8A4F-58C224875A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D00FDED-46B5-4888-8A4F-58C224875A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D00FDED-46B5-4888-8A4F-58C224875A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D00FDED-46B5-4888-8A4F-58C224875A13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA56716-52EF-498B-B382-4C501B5B760A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA56716-52EF-498B-B382-4C501B5B760A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA56716-52EF-498B-B382-4C501B5B760A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA56716-52EF-498B-B382-4C501B5B760A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27A28EFF-5DEA-4125-808C-6EF0DE47F254}
+	EndGlobalSection
+EndGlobal
